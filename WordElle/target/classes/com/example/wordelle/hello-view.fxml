@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<VBox alignment="CENTER" prefHeight="508.0" prefWidth="451.0" spacing="20.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/18" fx:controller="com.example.wordelle.HelloController">
+    <padding>
+        <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
+    </padding>
+   <Pane prefHeight="67.0" prefWidth="411.0">
+      <children>
+         <Text fx:id="gOlO" layoutX="58.0" layoutY="49.0" strokeType="OUTSIDE" strokeWidth="0.0" text="X" textAlignment="CENTER" wrappingWidth="42.2060546875">
+            <font>
+               <Font size="44.0" />
+            </font>
+         </Text>
+         <Text fx:id="gOlTw" layoutX="128.0" layoutY="49.0" strokeType="OUTSIDE" strokeWidth="0.0" text="X" textAlignment="CENTER" wrappingWidth="42.2060546875">
+            <font>
+               <Font size="44.0" />
+            </font>
+         </Text>
+         <Text fx:id="gOlTh" layoutX="187.0" layoutY="49.0" strokeType="OUTSIDE" strokeWidth="0.0" text="X" textAlignment="CENTER" wrappingWidth="42.2060546875">
+            <font>
+               <Font size="44.0" />
+            </font>
+         </Text>
+         <Text fx:id="gOlFo" layoutX="249.0" layoutY="49.0" strokeType="OUTSIDE" strokeWidth="0.0" text="X" textAlignment="CENTER" wrappingWidth="42.2060546875">
+            <font>
+               <Font size="44.0" />
+            </font>
+         </Text>
+         <Text fx:id="gOlFi" layoutX="310.0" layoutY="49.0" strokeType="OUTSIDE" strokeWidth="0.0" text="X" textAlignment="CENTER" wrappingWidth="42.2060546875">
+            <font>
+               <Font size="44.0" />
+            </font>
+         </Text>
+      </children>
+   </Pane>
+   <Pane prefHeight="61.0" prefWidth="411.0">
+      <children>
+         <Text fx:id="gTwlO" layoutX="58.0" layoutY="46.0" strokeType="OUTSIDE" strokeWidth="0.0" text="X" textAlignment="CENTER" wrappingWidth="42.2060546875">
+            <font>
+               <Font size="44.0" />
+            </font>
+         </Text>
+         <Text fx:id="gTwlTw" layoutX="128.0" layoutY="46.0" strokeType="OUTSIDE" strokeWidth="0.0" text="X" textAlignment="CENTER" wrappingWidth="42.2060546875">
+            <font>
+               <Font size="44.0" />
+            </font>
+         </Text>
+         <Text fx:id="gTwlTh" layoutX="187.0" layoutY="46.0" strokeType="OUTSIDE" strokeWidth="0.0" text="X" textAlignment="CENTER" wrappingWidth="42.2060546875">
+            <font>
+               <Font size="44.0" />
+            </font>
+         </Text>
+         <Text fx:id="gTwlFo" layoutX="249.0" layoutY="46.0" strokeType="OUTSIDE" strokeWidth="0.0" text="X" textAlignment="CENTER" wrappingWidth="42.2060546875">
+            <font>
+               <Font size="44.0" />
+            </font>
+         </Text>
+         <Text fx:id="gTwlFi" layoutX="310.0" layoutY="46.0" strokeType="OUTSIDE" strokeWidth="0.0" text="X" textAlignment="CENTER" wrappingWidth="42.2060546875">
+            <font>
+               <Font size="44.0" />
+            </font>
+         </Text>
+      </children>
+   </Pane>
+   <Pane prefHeight="61.0" prefWidth="411.0">
+      <children>
+         <Text fx:id="gThlO" layoutX="58.0" layoutY="46.0" strokeType="OUTSIDE" strokeWidth="0.0" text="X" textAlignment="CENTER" wrappingWidth="42.2060546875">
+            <font>
+               <Font size="44.0" />
+            </font>
+         </Text>
+         <Text fx:id="gThlTw" layoutX="128.0" layoutY="46.0" strokeType="OUTSIDE" strokeWidth="0.0" text="X" textAlignment="CENTER" wrappingWidth="42.2060546875">
+            <font>
+               <Font size="44.0" />
+            </font>
+         </Text>
+         <Text fx:id="gThlTh" layoutX="187.0" layoutY="46.0" strokeType="OUTSIDE" strokeWidth="0.0" text="X" textAlignment="CENTER" wrappingWidth="42.2060546875">
+            <font>
+               <Font size="44.0" />
+            </font>
+         </Text>
+         <Text fx:id="gThlFo" layoutX="249.0" layoutY="46.0" strokeType="OUTSIDE" strokeWidth="0.0" text="X" textAlignment="CENTER" wrappingWidth="42.2060546875">
+            <font>
+               <Font size="44.0" />
+            </font>
+         </Text>
+         <Text fx:id="gThlFi" layoutX="310.0" layoutY="46.0" strokeType="OUTSIDE" strokeWidth="0.0" text="X" textAlignment="CENTER" wrappingWidth="42.2060546875">
+            <font>
+               <Font size="44.0" />
+            </font>
+         </Text>
+      </children>
+   </Pane>
+   <Pane prefHeight="67.0" prefWidth="411.0">
+      <children>
+         <Text fx:id="gFolO" layoutX="58.0" layoutY="49.0" strokeType="OUTSIDE" strokeWidth="0.0" text="X" textAlignment="CENTER" wrappingWidth="42.2060546875">
+            <font>
+               <Font size="44.0" />
+            </font>
+         </Text>
+         <Text fx:id="gFolTw" layoutX="128.0" layoutY="49.0" strokeType="OUTSIDE" strokeWidth="0.0" text="X" textAlignment="CENTER" wrappingWidth="42.2060546875">
+            <font>
+               <Font size="44.0" />
+            </font>
+         </Text>
+         <Text fx:id="gFolTh" layoutX="187.0" layoutY="49.0" strokeType="OUTSIDE" strokeWidth="0.0" text="X" textAlignment="CENTER" wrappingWidth="42.2060546875">
+            <font>
+               <Font size="44.0" />
+            </font>
+         </Text>
+         <Text fx:id="gFolFo" layoutX="249.0" layoutY="49.0" strokeType="OUTSIDE" strokeWidth="0.0" text="X" textAlignment="CENTER" wrappingWidth="42.2060546875">
+            <font>
+               <Font size="44.0" />
+            </font>
+         </Text>
+         <Text fx:id="gFolFi" layoutX="310.0" layoutY="49.0" strokeType="OUTSIDE" strokeWidth="0.0" text="X" textAlignment="CENTER" wrappingWidth="42.2060546875">
+            <font>
+               <Font size="44.0" />
+            </font>
+         </Text>
+      </children>
+   </Pane>
+   <Pane prefHeight="61.0" prefWidth="411.0">
+      <children>
+         <Text fx:id="gFilO" layoutX="58.0" layoutY="46.0" strokeType="OUTSIDE" strokeWidth="0.0" text="X" textAlignment="CENTER" wrappingWidth="42.2060546875">
+            <font>
+               <Font size="44.0" />
+            </font>
+         </Text>
+         <Text fx:id="gFilTw" layoutX="128.0" layoutY="46.0" strokeType="OUTSIDE" strokeWidth="0.0" text="X" textAlignment="CENTER" wrappingWidth="42.2060546875">
+            <font>
+               <Font size="44.0" />
+            </font>
+         </Text>
+         <Text fx:id="gFilTh" layoutX="187.0" layoutY="46.0" strokeType="OUTSIDE" strokeWidth="0.0" text="X" textAlignment="CENTER" wrappingWidth="42.2060546875">
+            <font>
+               <Font size="44.0" />
+            </font>
+         </Text>
+         <Text fx:id="gFilFo" layoutX="249.0" layoutY="46.0" strokeType="OUTSIDE" strokeWidth="0.0" text="X" textAlignment="CENTER" wrappingWidth="42.2060546875">
+            <font>
+               <Font size="44.0" />
+            </font>
+         </Text>
+         <Text fx:id="gFilFi" layoutX="310.0" layoutY="46.0" strokeType="OUTSIDE" strokeWidth="0.0" text="X" textAlignment="CENTER" wrappingWidth="42.2060546875">
+            <font>
+               <Font size="44.0" />
+            </font>
+         </Text>
+      </children>
+   </Pane>
+   <Pane prefHeight="61.0" prefWidth="411.0">
+      <children>
+         <Text fx:id="gSlO" layoutX="58.0" layoutY="46.0" strokeType="OUTSIDE" strokeWidth="0.0" text="X" textAlignment="CENTER" wrappingWidth="42.2060546875">
+            <font>
+               <Font size="44.0" />
+            </font>
+         </Text>
+         <Text fx:id="gSlTw" layoutX="128.0" layoutY="46.0" strokeType="OUTSIDE" strokeWidth="0.0" text="X" textAlignment="CENTER" wrappingWidth="42.2060546875">
+            <font>
+               <Font size="44.0" />
+            </font>
+         </Text>
+         <Text fx:id="gSlTh" layoutX="187.0" layoutY="46.0" strokeType="OUTSIDE" strokeWidth="0.0" text="X" textAlignment="CENTER" wrappingWidth="42.2060546875">
+            <font>
+               <Font size="44.0" />
+            </font>
+         </Text>
+         <Text fx:id="gSlFo" layoutX="249.0" layoutY="46.0" strokeType="OUTSIDE" strokeWidth="0.0" text="X" textAlignment="CENTER" wrappingWidth="42.2060546875">
+            <font>
+               <Font size="44.0" />
+            </font>
+         </Text>
+         <Text fx:id="gSlFi" layoutX="310.0" layoutY="46.0" strokeType="OUTSIDE" strokeWidth="0.0" text="X" textAlignment="CENTER" wrappingWidth="42.2060546875">
+            <font>
+               <Font size="44.0" />
+            </font>
+         </Text>
+      </children>
+   </Pane>
+
+    <Label fx:id="welcomeText" />
+   <Pane prefHeight="77.0" prefWidth="411.0">
+      <children>
+          <Button fx:id="submitGuessButton" layoutX="344.0" layoutY="15.0" onAction="#onHelloButtonClick" text="Guess!" />
+         <TextField fx:id="textGuessOne" layoutX="37.0" layoutY="8.0" prefHeight="41.0" prefWidth="60.0" />
+         <TextField fx:id="textGuessTwo" layoutX="97.0" layoutY="8.0" prefHeight="41.0" prefWidth="60.0" />
+         <TextField fx:id="textGuessThree" layoutX="157.0" layoutY="8.0" prefHeight="41.0" prefWidth="60.0" />
+         <TextField fx:id="textGuessFour" layoutX="217.0" layoutY="8.0" prefHeight="41.0" prefWidth="60.0" />
+         <TextField fx:id="textGuessFive" layoutX="277.0" layoutY="8.0" prefHeight="41.0" prefWidth="60.0" />
+      </children>
+   </Pane>
+</VBox>
